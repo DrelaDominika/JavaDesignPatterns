@@ -1,7 +1,5 @@
 package com.java.designpatterns.facade;
 
-import java.sql.SQLOutput;
-
 public class Customer {
 
     public static void main(String[] args) {
